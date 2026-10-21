@@ -70,19 +70,19 @@ The workbook `Sales_Performance_Profitability_Analytics.xlsx` contains:
 ## Screenshots
 
 ### Executive dashboard
-![Executive dashboard](Screenshots/01_Executive_Dashboard_Overview.png)
+![Executive dashboard](screenshots/01_Executive_Dashboard_Overview.png)
 
 ### Executive summary and insights
-![Executive summary](Screenshots/02_Executive_Summary_Insights.png)
+![Executive summary](screenshots/02_Executive_Summary_Insights.png)
 
 ### Filtered summary view
-![Filtered summary view](Screenshots/03_Pivot_Data_Filtered_View.png)
+![Filtered summary view](screenshots/03_Pivot_Data_Filtered_View.png)
 
 ### Cleaned transaction data
-![Cleaned transaction data](Screenshots/04_Cleaned_Data_Fact_Table.png)
+![Cleaned transaction data](screenshots/04_Cleaned_Data_Fact_Table.png)
 
 ### Lookup tables
-![Lookup tables](Screenshots/05_Dimension_Lookup_Tables.png)
+![Lookup tables](screenshots/05_Dimension_Lookup_Tables.png)
 
 ## Repository Structure
 
